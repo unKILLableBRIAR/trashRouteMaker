@@ -89,6 +89,6 @@ plt.tight_layout()
 plt.show()
 
 # 9. 이미지 저장
-fig1.savefig("output/predict_plot_weather_seoggu.png", dpi=300, bbox_inches='tight')
-fig2.savefig("output/components_plot_weather_seoggu.png", dpi=300, bbox_inches='tight')
+fig1.savefig("output/predict_plot_weather_yuseonggu.png", dpi=300, bbox_inches='tight')
+fig2.savefig("output/components_plot_weather_yuseonggu.png", dpi=300, bbox_inches='tight')
 
